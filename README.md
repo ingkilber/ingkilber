@@ -26,6 +26,6 @@
 <p><a href="https://www.buymeacoffee.com/https://github.com/ingkilber"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://kilber.ymrest.com/" /></a></p><br><br>
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ingkilber&show_icons=true&locale=en&layout=compact" alt="ingkilber" /></p>
+<-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ingkilber&show_icons=true&locale=en&layout=compact" alt="ingkilber" /></p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ingkilber" alt="ingkilber" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ingkilber" alt="ingkilber" /></a> </p> -->
