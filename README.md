@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kilber Marcano</h1>
 <h3 align="center">A passionate developer Full stack web 💻</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ingkilber" alt="ingkilber" /></a> </p>
-
 - 🌱 I’m currently learning **ThreeJS, VueJS, Laravel...**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ingkilber](https://github.com/ingkilber)
@@ -29,3 +27,5 @@
 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ingkilber&show_icons=true&locale=en&layout=compact" alt="ingkilber" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ingkilber" alt="ingkilber" /></a> </p>
