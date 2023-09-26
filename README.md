@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kilber Marcano</h1>
 <h3 align="center">A passionate developer Full stack web 💻</h3>
 
-- 🌱 I’m currently learning **ThreeJS, VueJS, Laravel...**
+- 🌱 I’m currently learning **NextJS, VueJS, Laravel...**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ingkilber](https://github.com/ingkilber)
 
