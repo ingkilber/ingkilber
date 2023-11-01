@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **ing.kilber.marcano@gmail.com**
 
-- 📄 Know about my experiences [kilbermarcano.com](https://kilbermarcano.com/){:target="_blank"}
+- 📄 Know about my experiences [kilbermarcano.com](https://kilbermarcano.com/)
 
 
 <h3 align="left">Languages and Tools:</h3>
