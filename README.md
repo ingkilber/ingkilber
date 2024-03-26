@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kilber Marcano</h1>
-<h3 align="center">A passionate developer Full stack web 💻 <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture> </h3>
+<h3 align="center">A passionate developer Full stack web 💻 </h3>
+<picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture>
 
 - 🌱 I’m currently learning **NextJS, VueJS, Laravel...**
 
